@@ -1,9 +1,15 @@
-try:
+import os
+
+os.system('xdg-open https://www.facebook.com/mradi5000')
 
  import data64
 
-except:
 
- import data32
+
+
+
+
+
+
 
 
